@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { SelectedPage } from '../../shared/types'
 import HomepageText from "../../assets/HomePageText.png"
 import HomepageGraphic from "../../assets/HomePageGraphic.png"
